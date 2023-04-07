@@ -1,0 +1,44 @@
+/* add your CSS here */
+
+.title{
+border-color:none;
+border-width:5; 
+border-style:none;
+padding: 10px;
+}
+.fun-fact{
+  font-style: italic;
+}
+.labels{
+   font-weight: bold;
+}
+
+.card{
+  max-width: 330px;
+  border-color:lightgrey;
+border-width:5; 
+border-style:solid;
+  padding: 10px;
+ box-shadow: 10px 10px lightgrey;
+}
+.card-container{
+  
+}
+.image{
+  max-width: 280px;
+border-color:red;
+border-width:1; 
+border-style:none;
+padding: 5px;
+  align-items:center;
+}
+
+.text{
+border-color:lightgrey;
+border-width:5; 
+border-style:solid;
+  padding: 10px;
+}
+.list{
+list-style:none;
+}
